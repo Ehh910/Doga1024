@@ -1,0 +1,14 @@
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\bin\Debug\net6.0\Doga1024.exe
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\bin\Debug\net6.0\Doga1024.deps.json
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\bin\Debug\net6.0\Doga1024.runtimeconfig.json
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\bin\Debug\net6.0\Doga1024.dll
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\bin\Debug\net6.0\Doga1024.pdb
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.AssemblyInfoInputs.cache
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.AssemblyInfo.cs
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.csproj.CoreCompileInputs.cache
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.dll
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\refint\Doga1024.dll
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.pdb
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\Doga1024.genruntimeconfig.cache
+C:\Users\C20NagyB\source\repos\Doga1024\Doga1024\obj\Debug\net6.0\ref\Doga1024.dll
